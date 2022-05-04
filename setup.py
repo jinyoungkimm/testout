@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
   include_pacakge_data=True,
   name = 'jinyoungdonga',
-  version = 'v0.1'
+  version = 'v0.3'
   description = 'oss-devolopment class test output',
   author_email='wlsdud6523@kakao.com',
   url='https://github.com/jinyoungkimm/testout',
